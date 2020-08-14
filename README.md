@@ -1,2 +1,2 @@
 # GitBashPracticeDemo
-New Practice Session
+New Practice Session for Git-Bash
